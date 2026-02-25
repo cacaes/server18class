@@ -1,0 +1,26 @@
+#config for pf map
+#layer 0
+layer
+	rmap= 1.rmap
+	dhmap= 1.dhmap
+	sec= 1.sec
+end
+#layer 1
+layer
+	rmap= 1-1.rmap
+	dhmap= 1-1.dhmap
+	sec= 1-1.sec
+end
+#layer 2
+layer
+	rmap= 1-2.rmap
+	dhmap= 1-2.dhmap
+	sec= 1-2.sec
+end
+joint=0 1 1811 388
+joint=0 1 1628 1642
+joint=1 2 1700 1648
+joint=0 1 700 1700
+joint=1 2 536 1496
+joint=2 1 452 1570
+joint=1 0 1568 224
