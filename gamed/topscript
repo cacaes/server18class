@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd ./config
+tee topdata.txt | ../toplist | tee titledata.txt
