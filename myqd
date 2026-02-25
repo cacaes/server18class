@@ -1,0 +1,34 @@
+#!/bin/sh
+cd /root/authd
+./authd &
+sleep 1
+cd /root/gacd
+./gacd gamesys.conf &
+sleep 2
+cd /root/gdeliveryd
+./gdeliveryd gamesys.conf &
+sleep 3
+cd /root/glinkd
+./glinkd gamesys.conf 1 &
+sleep 4
+cd /root/gamedbd
+./gamedbd gamesys.conf &
+sleep 5
+cd /root/uniquenamed
+./uniquenamed gamesys.conf  &
+sleep 6
+cd /root/gamed
+./gs gs.conf gmserver.conf gsalias.conf  &
+sleep 7
+#启动所有副本
+cd /root/gamed
+./gs gs.conf gmserver.conf gsalias21.conf  &
+./gs gs.conf gmserver.conf gsalias22.conf  &
+sleep 8
+#启动城战，不启动可以注释掉#
+cd /root/gamed
+./gs gs.conf gmserver.conf gsaliasbf.conf  &
+sleep 9
+#启动领土战
+cd /root/gamed
+./gs gs.conf gmserver.conf gsterritory.conf  &

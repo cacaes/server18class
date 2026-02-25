@@ -1,0 +1,155 @@
+#!/bin/sh
+
+bar='####################'
+echo ""
+	/opt/lampp/lampp restart
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Webserver...${bar:0:$i}"
+	sleep .1
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Webserver Started"
+
+
+bar='####################'
+echo ""
+cd /root/authd
+nohup ./authd >/root/logs/1authd.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Auth...${bar:0:$i}"
+	sleep .1
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Auth Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/gacd
+nohup ./gacd gamesys.conf >/root/logs/2gacd.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Gacd...${bar:0:$i}"
+	sleep .1
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Gacd Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/gdeliveryd
+nohup ./gdeliveryd gamesys.conf >/root/logs/3gdeliveryd.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Gdelivery...${bar:0:$i}"
+	sleep .1
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Gdelivery Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/glinkd
+nohup ./glinkd gamesys.conf 1 >/root/logs/4glinkd.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Glink...${bar:0:$i}"
+	sleep .2
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Glink Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/gamedbd
+nohup ./gamedbd gamesys.conf >/root/logs/5gamedbd.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Game Database...${bar:0:$i}"
+	sleep .2
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Game Database Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/uniquenamed
+nohup ./uniquenamed gamesys.conf >/root/logs/6uniquenamed.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Uniquename...${bar:0:$i}"
+	sleep .2
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Uniquename Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/gamed
+nohup ./gs gs.conf gmserver.conf gsalias.conf >/root/logs/7realm1.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Realm 1...${bar:0:$i}"
+	sleep 10
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Realm 1 Started"
+
+
+bar='####################'
+echo ""
+cd /root/gamed
+nohup ./gs gs.conf gmserver.conf gsalia2.conf >/root/logs/8realm2.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Realm 2...${bar:0:$i}"
+	sleep 10
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Realm 2 Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/gamed
+nohup ./gs gs.conf gmserver.conf gsalias21.conf >/root/logs/9elysium1.log 2>&1 &
+nohup ./gs gs.conf gmserver.conf gsalias22.conf >/root/logs/10elysium2.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Elysium...${bar:0:$i}"
+	sleep 5
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Elysium Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/gamed
+nohup ./gs gs.conf gmserver.conf gsaliasbf.conf >/root/logs/11battleground.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Battleground...${bar:0:$i}"
+	sleep 5
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Battleground Started"
+
+
+
+bar='####################'
+echo ""
+cd /root/gamed
+nohup ./gs gs.conf gmserver.conf gsterritory.conf >/root/logs/12territory.log 2>&1 &
+for i in {1..20}; do
+	echo -ne "$(tput bold)$(tput setaf 1)\rStarting Territory War...${bar:0:$i}"
+	sleep 5
+done
+echo ""
+echo "$(tput bold)$(tput setaf 2)Territory War Started"
+
+

@@ -1,0 +1,8 @@
+#!/bin/sh
+mkdir /root/backup
+cp -r /root/gamedbd/dbhomewdb  /root/backup
+cp -r /root/uniquenamed/dbhomewdb  /root/backup
+tar -zcPvf /root/backup/zxdb$(date +%Y%m%d%H%M).tar.gz /root/backup
+rm -rf /root/backup
+/opt/lampp/bin/mysqldump -uroot -p123456 zx| gzip > /root/backup/zxmysql$(date +%Y%m%d%H%M).sql.gz
+echo "服务器数据备份完成"

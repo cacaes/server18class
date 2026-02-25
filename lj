@@ -1,0 +1,16 @@
+#!/bin/sh
+cd /root/gdeliveryd
+./gdeliveryd jgamesys.conf &
+sleep 2
+cd /root/glinkd
+./glinkd jgamesys.conf 1 &
+sleep 3
+cd /root/gamedbd
+./gamedbd jgamesys.conf &
+sleep 5
+cd /root/gamed
+./gs jgs.conf jgmserver.conf jgsalias.conf  &
+sleep 6
+#cd /root/gamed
+#./gs igs.conf igmserver.conf gsalias32.conf  &
+#sleep 7

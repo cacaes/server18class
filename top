@@ -1,0 +1,12 @@
+#!/bin/sh
+while true
+do
+
+cd /root/toplist
+rm -rf dbhomewdb
+cp -a /root/gamedbd/dbhomewdb .
+./toplist gamesys.conf ./dbhomewdb &
+
+sleep 1
+sleep 60m
+done 

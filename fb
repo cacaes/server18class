@@ -1,0 +1,12 @@
+#!/bin/sh
+#启动所有副本
+cd /root/gamed
+./gs gs.conf gmserver.conf gsalias21.conf  &
+./gs gs.conf gmserver.conf gsalias22.conf  &
+#启动城战，不启动可以注释掉#
+cd /root/gamed
+./gs gs.conf gmserver.conf gsaliasbf.conf  &
+sleep 9
+#启动领土战
+cd /root/gamed
+./gs gs.conf gmserver.conf gsterritory.conf  &

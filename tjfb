@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /root/gamed
+./gs igs.conf igmserver.conf gsalias32.conf  &
