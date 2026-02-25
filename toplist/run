@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd /root/toplist
+rm -rf dbhomewdb
+cp -a /root/gamedbd/dbhomewdb .
+./toplist gamesys.conf ./dbhomewdb &
