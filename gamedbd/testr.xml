@@ -1,0 +1,1115 @@
+Log::setprogname<?xml version="1.0"?>
+<role>
+<base>
+<variable name="version" type="byte">1</variable>
+<variable name="id" type="int">1024</variable>
+<variable name="name" type="Octets">Gevrin</variable>
+<variable name="faceid" type="byte">0</variable>
+<variable name="hairid" type="byte">0</variable>
+<variable name="gender" type="byte">0</variable>
+<variable name="status" type="byte">1</variable>
+<variable name="delete_time" type="int">0</variable>
+<variable name="create_time" type="int">1586310644</variable>
+<variable name="lastlogin_time" type="int">1587431811</variable>
+<variable name="familyid" type="int">0</variable>
+<variable name="title" type="byte">0</variable>
+<variable name="config_data" type="Octets">030000007801ed543b0ec2300c7d2d45fc062a400224a476ec56d4a5120c889bb17007368ed385537006f6f0dc3a52d9e858b025c72f719cd8cf926f008654d7126e11aa0a0e64a1ecb7cdb9dfaf78769f0383da0b94f4478a0fc463c547e2a9e22b83678a8bc9e7bfad146af8e2c3b1ff8c31fe6d0d37d337061ece7d93b2345fee99fd3f1ea4e74f0e8b1dfbaf732540a0220005d788b667c22a469272e272acab1c8b2ac526c9b0541c9759ed13bfe80f4b7a062ea7903d947e36cb0f97dbb1343ff53a86d97563c01830068c0163c018e801036f16c442d0</variable>
+<variable name="help_states" type="Octets">05001e00862e004a3be592b24a5000002000000280040c0000000000000000000000140000000000000000000000000000000000000000000a00000000000000000000003200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000014000000000000000000000000000000000000000000</variable>
+<variable name="spouse" type="int">0</variable>
+<variable name="jointime" type="int">0</variable>
+<variable name="userid" type="int">64</variable>
+<variable name="sectid" type="int">0</variable>
+<variable name="initiallevel" type="short">0</variable>
+<variable name="earid" type="byte">0</variable>
+<variable name="tailid" type="byte">0</variable>
+<variable name="circletrack" type="Octets">020000000100000001015e8d2e405e8d589f01000000000000000000000000000000000000000200000001015e8d589f000000000900000000000000000000000000000000</variable>
+<variable name="fashionid" type="byte">0</variable>
+<variable name="remote_central_type" type="byte">0</variable>
+</base>
+<status>
+<variable name="version" type="byte">1</variable>
+<variable name="id" type="int">1024</variable>
+<variable name="occupation" type="byte">81</variable>
+<variable name="level" type="short">150</variable>
+<variable name="cur_title" type="short">1</variable>
+<variable name="exp" type="long">21091500000</variable>
+<variable name="pp" type="int">137</variable>
+<variable name="hp" type="int">25256</variable>
+<variable name="mp" type="int">19810</variable>
+<variable name="posx" type="float">-280.12738</variable>
+<variable name="posy" type="float">117.801826</variable>
+<variable name="posz" type="float">-320.596649</variable>
+<variable name="pkvalue" type="int">0</variable>
+<variable name="worldtag" type="int">11</variable>
+<variable name="time_used" type="int">57186</variable>
+<variable name="reputation" type="int">0</variable>
+<variable name="produceskill" type="int">0</variable>
+<variable name="produceexp" type="int">0</variable>
+<variable name="custom_status" type="Octets"></variable>
+<variable name="filter_data" type="Octets">00000000</variable>
+<variable name="charactermode" type="Octets">030000000000000004000000000000000500000000000000</variable>
+<variable name="instancekeylist" type="Octets">0000000000000000</variable>
+<variable name="dbltime_data" type="Octets"></variable>
+<variable name="petcorral" type="Octets"></variable>
+<variable name="var_data" type="Octets">0100000000000000000080a364123b0019000000db07000000000000ffffffff55fd0000001f00000001000031000000</variable>
+<variable name="skills" type="Octets">020b000000b307000001b40700000130190000023119000005321900000534190000053519000005371900000338190000063a190000033b190000050000000000000000</variable>
+<variable name="storehousepasswd" type="Octets"></variable>
+<variable name="coolingtime" type="Octets">ffffffff00000000</variable>
+<variable name="recipes" type="Octets"></variable>
+<variable name="waypointlist" type="Octets"></variable>
+<variable name="credit" type="Octets">000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="titlelist" type="Octets">312d</variable>
+<variable name="contribution" type="int">0</variable>
+<variable name="combatkills" type="int">0</variable>
+<variable name="devotion" type="int">0</variable>
+<variable name="talismanscore" type="int">0</variable>
+<variable name="updatetime" type="int">1587431638</variable>
+<variable name="battlescore" type="int">0</variable>
+<variable name="petdata" type="Octets">0100000002000000000000000000000000000000000000000000000000000000</variable>
+<variable name="reborndata" type="Octets">51009600</variable>
+<variable name="cultivation" type="short">4</variable>
+<variable name="reserved1" type="int">0</variable>
+<variable name="fashion_hotkey" type="Octets"></variable>
+<variable name="raid_data" type="Octets">01000000472d9e5e0000000000000000</variable>
+<variable name="five_year" type="Octets">01000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="treasure_info" type="Octets">01000000472d9e5e000000000c00000001001202000001000a02000001000b02000001000c02000001000d02000001000e02000001010f020000010010020000010011020000030000000000030000000000030000000000</variable>
+</status>
+<pocket>
+<variable name="capacity" type="int">144</variable>
+<variable name="timestamp" type="int">144</variable>
+<variable name="money" type="int">99999500</variable>
+<items>
+<variable name="id" type="int">73794</variable>
+<variable name="pos" type="int">0</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">10876</variable>
+<variable name="pos" type="int">1</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">700</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">0000000000000000000000000000000000000000000000000000000001000000f10000000100c0002c0000002900000000000000080000001700000000000000000000000800000008000000080000000900000008000000000000000800000066030000000000002c020000000000000000000000f029460080594400007143e17a543f000030420000244200000000000000410000b84100000000000000000000004100000041000010410000004100000041c3f57e4285eb4142000000008fc2b540cdcc8a4100000000000000007b147e40e17a14408fc2354085eb8140295c8740000098410079024700008041007602470000a04100780247000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f000020410000a0410000f0410000004052aca43f0000404070c7103f00000041a054463f00007041d55ec53f0000c0411238b23f00000000000040400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">22433</variable>
+<variable name="pos" type="int">2</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">450</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">ffffffff01000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000000000b700000084000000130906010f03b7000000291300003e65000084000000020d000046400000150000003d0e0000e0150000260000003d0e0000f115000011000000020d0000e30700006c000000020d0000d802000033000000e20e00005401000001000000e20e00009e00000001000000020d00008700000001000000e20e00009e00000001000000be140000e600000001000000ef100000b7000000010000008c0f0000a600000001018fc2753c3333933f85eb113f713d2a4052b8ce3f85eb113fef0400005c8f423eda39c20178000a001400fb24e704048d0501ad05018b0501000000000000000000000000680501e304014f05010000000000000000000000000000000a0500000000000000000005000000000000000000000001030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004020000000000000042af4600009841000010410000c0400000803f00007041000040400000803f0000803f00b0a4450000e14300007043000020410ad7233ccdcc8c3f0ad7233ccdcc8c3f0000a04100ec1346000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000003743000004430000a84100001842000088410000d84200004c420000803f0000803f0000803f0000803f0000803f0000803f004899450020504500d0634500d06345002050450020504500206e4500206e450020504500206e4500f0a5450078874500c0784500e09c4400a0b14400a0b5440060b144000000000000000000000000000000000000ad4400609c4400e0a944000000000000803f0000803f0000803f0000803f000000000000000000000000000000000000803f0000803f0000803f00000000000020410000a0400000000000000000000000000000000000000000000000000000000000000000000000000000a040000000000000000000000000000000000000803f0000803f0000803f0000803f0000803f00000000000000000000803f0000803f0000803f0000803f0000803f0000803f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">55620</variable>
+<variable name="pos" type="int">3</variable>
+<variable name="count" type="int">2</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">30000</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">35347</variable>
+<variable name="pos" type="int">4</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">83</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">58312</variable>
+<variable name="pos" type="int">5</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">415</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">1586321455</variable>
+<variable name="guid2" type="int">251658241</variable>
+</items>
+<items>
+<variable name="id" type="int">58312</variable>
+<variable name="pos" type="int">6</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">479</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">1586374508</variable>
+<variable name="guid2" type="int">251658241</variable>
+</items>
+<items>
+<variable name="id" type="int">20478</variable>
+<variable name="pos" type="int">7</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20478</variable>
+<variable name="pos" type="int">8</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20478</variable>
+<variable name="pos" type="int">9</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20478</variable>
+<variable name="pos" type="int">10</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20478</variable>
+<variable name="pos" type="int">11</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20477</variable>
+<variable name="pos" type="int">12</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20477</variable>
+<variable name="pos" type="int">13</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20477</variable>
+<variable name="pos" type="int">14</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20477</variable>
+<variable name="pos" type="int">15</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20477</variable>
+<variable name="pos" type="int">16</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">32211</variable>
+<variable name="pos" type="int">17</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">100</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">58187</variable>
+<variable name="pos" type="int">18</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">23</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">58188</variable>
+<variable name="pos" type="int">19</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">23</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">3999</variable>
+<variable name="pos" type="int">20</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">780c0300</variable>
+<variable name="proctype" type="int">23</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">50125</variable>
+<variable name="pos" type="int">21</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">1588029419</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">54124</variable>
+<variable name="pos" type="int">22</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">1588029419</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">22343</variable>
+<variable name="pos" type="int">23</variable>
+<variable name="count" type="int">200</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">9999</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">41668</variable>
+<variable name="pos" type="int">24</variable>
+<variable name="count" type="int">20</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">9999</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">57440</variable>
+<variable name="pos" type="int">25</variable>
+<variable name="count" type="int">199</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">10000</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">146</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">57440</variable>
+<variable name="pos" type="int">26</variable>
+<variable name="count" type="int">166</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">10000</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">146</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">40671</variable>
+<variable name="pos" type="int">27</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">67</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">34134</variable>
+<variable name="pos" type="int">28</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">83</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">34135</variable>
+<variable name="pos" type="int">29</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">83</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">21748</variable>
+<variable name="pos" type="int">30</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">22013</variable>
+<variable name="pos" type="int">31</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">83</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">22013</variable>
+<variable name="pos" type="int">32</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">22082</variable>
+<variable name="pos" type="int">33</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">22085</variable>
+<variable name="pos" type="int">34</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">57997</variable>
+<variable name="pos" type="int">35</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">211</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">57998</variable>
+<variable name="pos" type="int">36</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">211</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">57999</variable>
+<variable name="pos" type="int">37</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">211</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">25727</variable>
+<variable name="pos" type="int">38</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20144</variable>
+<variable name="pos" type="int">39</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">82</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">20157</variable>
+<variable name="pos" type="int">40</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">82</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">65730</variable>
+<variable name="pos" type="int">41</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">10270000</variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">1588033752</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">71537</variable>
+<variable name="pos" type="int">46</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">99</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<items>
+<variable name="id" type="int">71535</variable>
+<variable name="pos" type="int">47</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">99</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</items>
+<equipment>
+<variable name="id" type="int">73792</variable>
+<variable name="pos" type="int">0</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<equipment>
+<variable name="id" type="int">23887</variable>
+<variable name="pos" type="int">1</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<equipment>
+<variable name="id" type="int">24637</variable>
+<variable name="pos" type="int">2</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<equipment>
+<variable name="id" type="int">23886</variable>
+<variable name="pos" type="int">3</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">147</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<equipment>
+<variable name="id" type="int">13299</variable>
+<variable name="pos" type="int">5</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<equipment>
+<variable name="id" type="int">22013</variable>
+<variable name="pos" type="int">6</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<equipment>
+<variable name="id" type="int">34041</variable>
+<variable name="pos" type="int">15</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">700</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">00040000470065007600720069006e0000000000000000000000000001000000000000000100c01c000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000800000000000000000000002c020000000000000000000000f90447000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020410060f044000070410080f0440000a04100a0f0440000f04100e0f04400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f000020410000a0410000f0410000803f0000803f000000400000803f000040400000803f000080400000803f0000a0400000803f0000000000004040000000000000e0400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">5</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<equipment>
+<variable name="id" type="int">43475</variable>
+<variable name="pos" type="int">16</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">700</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">00040000470065007600720069006e0000000000000000000000000001000000e70000000100c0022e00000026000000000000000700000017000000000000000000000008000000090000000800000008000000080000000000000008000000ba800000000000002c020000000000000000000000d3294700ba0047000067438fc2753f0000384200001842000000000000e0400000b8410000000000000000000000410000004100000041000010410000004185eb25428fc2fd41000000007b142e40cdcc8a410000000000000000cdcc8440c3f578407b147e407b147e4085eb814000008041009b074700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f000020410000a0410000f04100000040fffb403f000040406e87d73e00002041336a773f000030417426aa3f0000c84115f8b63f00000000000030410000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</equipment>
+<variable name="pocket_capacity" type="short">0</variable>
+<variable name="mountwing" type="Octets">000000</variable>
+</pocket>
+<storehouse>
+<variable name="capacity" type="int">144</variable>
+<variable name="money" type="int">0</variable>
+<variable name="capacity2" type="byte">6</variable>
+<card>
+<variable name="id" type="int">64514</variable>
+<variable name="pos" type="int">0</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">1</variable>
+<variable name="data" type="Octets">010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="proctype" type="int">19</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</card>
+<variable name="reserved2" type="byte">0</variable>
+<variable name="reserved3" type="short">0</variable>
+</storehouse>
+<task>
+<variable name="task_data" type="Octets">292a03001b00602d9e5e0000411c3f1c451c401c431c441c421c461c151d141d135714571f570f57155721571c571b5719572057d157bf57d257cb57cf57c657c857cc57d357c357000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f34a000000000000000000000000000000000000401c451c181d441c461c431c3f1c421c411c161dfb68cf68d568dc68db68e768fc68d968e668f6688d74ffffffff02b5dd0000000014f601160000000000000000000000000000007f86ffffff02023bdd00000000fc39c517000000000000000000000000000000828601ffffff022fdd000000001c90c5170000000000000000000000000000009961ffffffff0248d700000000dc1813140000000000000000000000000000002d7dffffff050248d7000000009463d9160000000000000000000000000000002f7d04ffffff0241d700000000cc9ed9160000000000000000000000000000008d65ffffffff0248d7000000005c4f7a14000000000000000000000000000000f266ffffff080248d700000000d4bf9c14000000000000000000000000000000f36607ffffff0248d700000000ecd89c14000000000000000000000000000000f169ffffff0a0248d7000000005c96eb14000000000000000000000000000000116b09ffffff023bd70000000034cdeb14000000000000000000000000000000a50affffffff0248d700000000ec05820b000000000000000000000000000000546cffffffff0248d700000000dc1122150000000000000000000000000000008e6effffff0e0248d70000000044a05815000000000000000000000000000000906e0dffffff023bd7000000001cd35815000000000000000000000000000000a286ffffff100248d700000000ac0fc917000000000000000000000000000000a4860fffffff023bd7000000001c42c917000000000000000000000000000000282effffffff0248d70000000014e4f40e0000000000000000000000000000008a5effffff130248d70000000064bcc913000000000000000000000000000000cf5e12ffffff023bd70000000034f1c913000000000000000000000000000000e82fffffffff0248d7000000005cab230f0000000000000000000000000000001f7dffffff1602ecd6000000007c03d8160000000000000000000000000000002b7d15ffffff02ecd6000000004c1cd816000000000000000000000000000000317dffffffff02ecd600000000e4d7d916000000000000000000000000000000af36ffffff1902ecd6000000006c12c70f000000000000000000000000000000c63618ffffff02ecd600000000dc45c70f000000000000000000000000000000cf6effffff1b02ecd60000000044355f15000000000000000000000000000000d16e1affffff02d8d6000000005c705f150000000000000000000000000000000b57ffffff1d02ecd600000000f452fc120000000000000000000000000000000d571cffffff02d3d6000000003c86fc120000000000000000000000000000005475ffffff1f02ecd600000000ac820d1600000000000000000000000000000056751effffff02d3d6000000001cbf0d16000000000000000000000000000000da75ffffff2102ecd600000000cc1c1d16000000000000000000000000000000dc7520ffffff02d3d600000000245d1d16000000000000000000000000000000ad70ffffff2302bc240000000044818e15000000000000000000000000000000ae7022ffffff02bc24000000001c9d8e150000000000000000000000000000004135ffffffff021404000000005c91a70f000000000000000000000000000000ce34ffffffff02d20300000000b4cb9c0f000000000000000000000000000000d134ffffffff02d2030000000074219d0f0000000000000000000000000000009e6effffffff02d20300000000d4f959150000000000000000000000000000009f6effffffff02d2030000000014165a15000000000000000000000000000000</variable>
+<variable name="task_complete" type="Octets">1200000040350000b4360000ea450000fa4b0000fb4b0000fc4b0000fd4b00005f4f0000855000007e570080af5b0000f06f0000ea700000eb700000ec700000ed700000b57f000086830000</variable>
+<variable name="task_finishtime" type="Octets">07005f4f00000000010000000000506400000000010000000000445700000000000080189f5e95610000000001004cbea55e0b5724598d5e0000000000007e57652d9e5e000000000000576b0000000001004cbea55e</variable>
+<task_inventory>
+<variable name="id" type="int">42066</variable>
+<variable name="pos" type="int">1</variable>
+<variable name="count" type="int">1</variable>
+<variable name="client_size" type="short">0</variable>
+<variable name="max_count" type="short">999</variable>
+<variable name="data" type="Octets"></variable>
+<variable name="proctype" type="int">0</variable>
+<variable name="expire_date" type="int">0</variable>
+<variable name="guid1" type="int">0</variable>
+<variable name="guid2" type="int">0</variable>
+</task_inventory>
+</task>
+<base2>
+<variable name="id" type="int">1024</variable>
+<variable name="bonus_withdraw" type="int">0</variable>
+<variable name="bonus_reward" type="int">0</variable>
+<variable name="bonus_used" type="int">0</variable>
+<variable name="exp_withdraw_today" type="long">0</variable>
+<variable name="exp_withdraw_time" type="int">0</variable>
+<variable name="composkills" type="Octets">00000000</variable>
+<variable name="tower_raid" type="Octets"></variable>
+<variable name="deity_level" type="short">1</variable>
+<variable name="data_timestamp" type="int">0</variable>
+<variable name="src_zoneid" type="int">0</variable>
+<variable name="deity_exp" type="long">0</variable>
+<variable name="dp" type="int">600</variable>
+<variable name="littlepet" type="Octets"></variable>
+<variable name="flag_mask" type="byte">2</variable>
+<variable name="ui_transfer" type="Octets">00000000</variable>
+<variable name="collision_info" type="Octets"></variable>
+<variable name="runescore" type="int">0</variable>
+<variable name="comsumption" type="long">0</variable>
+<variable name="astrology_info" type="Octets">00000000000000000000000000</variable>
+<variable name="liveness_info" type="Octets">010000000000000000000000000000000000000080189f5e00000000000000000000000000000000</variable>
+<variable name="sale_promotion_info" type="Octets">0000000000000000</variable>
+<variable name="propadd" type="Octets">00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="multi_exp" type="Octets"></variable>
+<variable name="fuwen_info" type="Octets"></variable>
+<datagroup>
+<variable name="__first" type="int">1</variable>
+<variable name="__second" type="int">1</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">2</variable>
+<variable name="__second" type="int">2</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">3</variable>
+<variable name="__second" type="int">3</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">4</variable>
+<variable name="__second" type="int">4</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">5</variable>
+<variable name="__second" type="int">5</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">6</variable>
+<variable name="__second" type="int">6</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">7</variable>
+<variable name="__second" type="int">7</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">8</variable>
+<variable name="__second" type="int">8</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">9</variable>
+<variable name="__second" type="int">9</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">10</variable>
+<variable name="__second" type="int">10</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">11</variable>
+<variable name="__second" type="int">11</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">12</variable>
+<variable name="__second" type="int">12</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">13</variable>
+<variable name="__second" type="int">13</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">14</variable>
+<variable name="__second" type="int">14</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">15</variable>
+<variable name="__second" type="int">15</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">16</variable>
+<variable name="__second" type="int">16</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">17</variable>
+<variable name="__second" type="int">17</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">18</variable>
+<variable name="__second" type="int">18</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">19</variable>
+<variable name="__second" type="int">19</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">20</variable>
+<variable name="__second" type="int">20</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">21</variable>
+<variable name="__second" type="int">21</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">22</variable>
+<variable name="__second" type="int">22</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">23</variable>
+<variable name="__second" type="int">23</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">24</variable>
+<variable name="__second" type="int">24</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">25</variable>
+<variable name="__second" type="int">25</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">26</variable>
+<variable name="__second" type="int">26</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">27</variable>
+<variable name="__second" type="int">27</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">28</variable>
+<variable name="__second" type="int">28</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">29</variable>
+<variable name="__second" type="int">29</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">30</variable>
+<variable name="__second" type="int">30</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">31</variable>
+<variable name="__second" type="int">31</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">32</variable>
+<variable name="__second" type="int">32</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">33</variable>
+<variable name="__second" type="int">33</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">34</variable>
+<variable name="__second" type="int">34</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">35</variable>
+<variable name="__second" type="int">35</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">36</variable>
+<variable name="__second" type="int">36</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">37</variable>
+<variable name="__second" type="int">37</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">38</variable>
+<variable name="__second" type="int">38</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">39</variable>
+<variable name="__second" type="int">39</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">40</variable>
+<variable name="__second" type="int">40</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">41</variable>
+<variable name="__second" type="int">41</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">42</variable>
+<variable name="__second" type="int">42</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">43</variable>
+<variable name="__second" type="int">43</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">44</variable>
+<variable name="__second" type="int">44</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">45</variable>
+<variable name="__second" type="int">45</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">46</variable>
+<variable name="__second" type="int">46</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">47</variable>
+<variable name="__second" type="int">47</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">48</variable>
+<variable name="__second" type="int">48</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">49</variable>
+<variable name="__second" type="int">49</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">50</variable>
+<variable name="__second" type="int">50</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">51</variable>
+<variable name="__second" type="int">51</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">52</variable>
+<variable name="__second" type="int">52</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">53</variable>
+<variable name="__second" type="int">53</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">54</variable>
+<variable name="__second" type="int">54</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">55</variable>
+<variable name="__second" type="int">55</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">56</variable>
+<variable name="__second" type="int">56</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">57</variable>
+<variable name="__second" type="int">57</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">58</variable>
+<variable name="__second" type="int">58</variable>
+</datagroup>
+<datagroup>
+<variable name="__first" type="int">59</variable>
+<variable name="__second" type="int">59</variable>
+</datagroup>
+<variable name="phase" type="Octets">0c0000000000008000000000000012000c000000000000000000000000000800</variable>
+<variable name="award_info_6v6" type="Octets"></variable>
+<variable name="hide_and_seek_info" type="Octets"></variable>
+<variable name="newyear_award_info" type="Octets">0000000000000000000000</variable>
+<variable name="child_info" type="Octets">0200000064000000640000000000000000000000ffffffff00000000</variable>
+<variable name="guaji_child_info" type="Octets"></variable>
+<variable name="card_info" type="Octets">0102f2fb000002fc0000fdfb0000fefb000003fc0000e0fb00000001000000000000000000000000000000000000000048018e5e00004a018e5e4b018e5e0001</variable>
+<variable name="challenge_info" type="Octets"></variable>
+<variable name="multi_tower_raid" type="Octets"></variable>
+<variable name="remote_roleid" type="int">0</variable>
+</base2>
+<base3>
+<variable name="version" type="byte">0</variable>
+<variable name="id" type="int">0</variable>
+<variable name="fort_info" type="Octets"></variable>
+<variable name="star_soul_info" type="Octets"></variable>
+<variable name="signdata" type="Octets">80792757000000000000000000000000</variable>
+<variable name="telestation_info" type="Octets"></variable>
+<variable name="new_vip_info" type="Octets"></variable>
+<variable name="cash_feedback_info" type="Octets">04000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</variable>
+<variable name="dotadata" type="Octets"></variable>
+<variable name="group_info" type="Octets"></variable>
+<variable name="reserved10" type="byte">0</variable>
+<variable name="reserved11" type="byte">0</variable>
+<variable name="reserved12" type="byte">0</variable>
+<variable name="reserved13" type="byte">0</variable>
+<variable name="reserved14" type="byte">0</variable>
+<variable name="reserved15" type="byte">0</variable>
+<variable name="reserved16" type="byte">0</variable>
+<variable name="reserved17" type="byte">0</variable>
+<variable name="reserved18" type="byte">0</variable>
+<variable name="reserved19" type="byte">0</variable>
+<variable name="reserved20" type="byte">0</variable>
+<variable name="reserved21" type="byte">0</variable>
+<variable name="reserved22" type="byte">0</variable>
+<variable name="reserved23" type="byte">0</variable>
+<variable name="reserved24" type="byte">0</variable>
+<variable name="reserved25" type="byte">0</variable>
+<variable name="reserved26" type="byte">0</variable>
+<variable name="reserved27" type="byte">0</variable>
+<variable name="reserved28" type="byte">0</variable>
+<variable name="reserved29" type="byte">0</variable>
+<variable name="reserved30" type="byte">0</variable>
+<variable name="reserved31" type="byte">0</variable>
+<variable name="reserved32" type="byte">0</variable>
+<variable name="reserved33" type="byte">0</variable>
+<variable name="reserved34" type="byte">0</variable>
+<variable name="reserved35" type="byte">0</variable>
+<variable name="reserved36" type="byte">0</variable>
+<variable name="reserved37" type="byte">0</variable>
+<variable name="reserved38" type="byte">0</variable>
+<variable name="reserved39" type="byte">0</variable>
+<variable name="reserved40" type="byte">0</variable>
+</base3>
+<achievement>
+<variable name="version" type="int">0</variable>
+<variable name="achieve_map" type="Octets">feff07</variable>
+<variable name="achieve_active" type="Octets">8d0113000100001400010000150001000016000100001700010000180001000019000100001a000100001b000100001c000100001d000100001e000100001f00010000200001000000210001000022000100002300010000240001000025000400000100020003002600070000010002000300040005000600270005000001000200030004002800020000000100002900020000000100002a00020000000100002b00020000000100002c00020000000100002d00020000000100002e00020000000100002f00020000000100003000010000003100010000003200010000003300010000003400010000003500010000003600010000003700010000003800010000003900010000003a00010000003b00010000003c000100003d0002000001003e00030000010002003f0003000001000200400003000001000200410001000042000100004300010000004400010000004500010000004600010000470001000048000100004900010000004a00010000004b00010000004c00010000004d00030000010002004e00030000010002004f000300000100020050000600000100020003000400050051000600000100020003000400050052000200000100530006000001000200030004000500540006000001000200030004000500550006000001000200030004000500560006000001000200030004000500570006000001000200030004000500580001000059000100005a000100005b000100005c000100005d000100005e000100005f0001000060000100006100010000620001000063000100006400010000650001000066000100006700010000680001000069000100006a000100006b000100006c000100006d000100006e000100006f0001000070000100000071000100000072000500000100020003000400730005000001000200030004007400050000010002000300040075000500000100020003000400760005000001000200030004007700050000010002000300040078000500000100020003000400790005000001000200030004007a000100007b000100007c000100007d000100007e000100007f00010000800001000081000100008200010000008300010000008400080000010002000300040005000600070085000800000100020003000400050006000700860008000001000200030004000500060007008700080000010002000300040005000600070088000800000100020003000400050006000700890008000001000200030004000500060007008a000100008b000100008c000100008d000100008e000100008f0001000090000100009100010000920001000093000100009400010000950001000096000100009700010000980001000099000100009a000100009b000100009c000100009d000100009e000100009f00010000a000010000a100010000a200010000a300010000a400010000a500010000a600010000a700010000a800010000a900010000aa00010000ab00010000ac00010000ad00010000ae00010000af00010000b000010000b100010000b200010000b300010000b400010000b500010000b600010000b700010000b800010000b900010000ba00010000bb00010000bc00010000bd00010000be00010000bf00010000c000010000c100010000c200010000c300010000c400010000c500010000c600010000c700010000c800010000c900010000ca00010000cb00010000cc00010000cd00010000ce00010000cf00010000d000010000d100010000d20001000000d30001000000d40001000000d50001000000d600010000d700010000d80003000001000200d90003000001000200da0003000001000200db0003000001000200dc0003000001000200dd0003000001000200de00010000df00010000e000010000e100010000e200010000e300010000e400010000e500010000e600010000e700010000e800010000e900010000ea00010000eb00010000ec00010000ed00010000ee00010000ef00010000f000010000f100010000f200010000f300010000f400010000f500010000f600010000f700010000f800010000f900010000fa00010000fb00010000fc00010000fd00010000fe00010000ff0001000000010100000101010000020101000003010100000401030000010002000501030000010002000601030000010002000701010000080101000009010100000a010100000b010100000c010100000d010100000e010100000f0101000010010100001101010000120101000013010100001401010000150101000016010100001701010000180101000019010100001a010100001b010100001c010100001d010100001e010100001f010100002001010000210101000022010100002301010000240101000025010100002601010000270101000028010100002901010000002a01010000002b010100002c010100002d010100002e010100002f0101000030010100003101010000320101000033010100003401010000350101000036010100003701010000380101000039010100003a010100003b01060000010002000300040005003c010100003d010100003e010100003f0101000040010100004101010000420101000043010100004401010000450101000046010100004701010000480101000049010100004a010100004b010100004c010100004d010100004e010100004f0101000050010100005101010000520101000053010100005401010000550101000056010100005701010000580101000059010100005a010100005b010100005c010100005d010100005e010100005f01010000600101000061010100006201010000630101000064010100006501010000660101000067010100006801010000006901010000006a01010000006b01010000006c01010000006d01010000006e01010000006f01010000007001010000007101010000007201010000007301010000007401010000007501010000007601010000007701010000780101000079010100007a010100007b010100007c010100007d010100007e010100007f0101000080010100008101010000820101000083010100008401010000850101000086010100008701010000880101000089010100008a010100008b010100008c010100008d010100008e010100008f0101000090010100009101010000920101000093010100009401010000950101000096010100009701010000980101000099010100009a010100009b010100009c010100009d010100009e010100009f010100002201000000000000</variable>
+<variable name="achieve_spec_info" type="Octets">0100402e8d5e020007308d5e03009f588d5e04009f588d5e05009f588d5e06009f588d5e07009f588d5e08009f588d5e09009f588d5e0a009f588d5e0b009f588d5e0c009f588d5e0d009f588d5e0e009f588d5e0f009f588d5e10001d598d5e11001d598d5e12001d598d5e</variable>
+<variable name="achieve_award_map" type="Octets"></variable>
+<variable name="reserved4" type="byte">0</variable>
+<variable name="reserved1" type="short">0</variable>
+<variable name="reserved2" type="int">0</variable>
+<variable name="reserved3" type="int">0</variable>
+</achievement>
+<base69>
+<variable name="version" type="byte">0</variable>
+<variable name="id" type="int">0</variable>
+<variable name="headframe_info" type="Octets">d317010002000000d3170100d4170100</variable>
+<variable name="levelup_reward_info" type="Octets"></variable>
+<variable name="jdland_info" type="Octets"></variable>
+<variable name="reserved4" type="byte">0</variable>
+<variable name="reserved5" type="byte">0</variable>
+<variable name="reserved6" type="byte">0</variable>
+<variable name="reserved7" type="byte">0</variable>
+<variable name="reserved8" type="byte">0</variable>
+<variable name="reserved9" type="byte">0</variable>
+<variable name="reserved11" type="byte">0</variable>
+<variable name="reserved12" type="byte">0</variable>
+<variable name="reserved13" type="byte">0</variable>
+<variable name="reserved14" type="byte">0</variable>
+<variable name="reserved15" type="byte">0</variable>
+<variable name="reserved16" type="byte">0</variable>
+<variable name="reserved17" type="byte">0</variable>
+<variable name="reserved18" type="byte">0</variable>
+<variable name="reserved19" type="byte">0</variable>
+<variable name="reserved20" type="byte">0</variable>
+<variable name="reserved21" type="byte">0</variable>
+<variable name="reserved22" type="byte">0</variable>
+<variable name="reserved23" type="byte">0</variable>
+<variable name="reserved24" type="byte">0</variable>
+<variable name="reserved25" type="byte">0</variable>
+<variable name="reserved26" type="byte">0</variable>
+<variable name="reserved27" type="byte">0</variable>
+<variable name="reserved28" type="byte">0</variable>
+<variable name="reserved29" type="byte">0</variable>
+<variable name="reserved30" type="byte">0</variable>
+<variable name="reserved31" type="byte">0</variable>
+<variable name="reserved32" type="byte">0</variable>
+<variable name="reserved33" type="byte">0</variable>
+<variable name="reserved34" type="byte">0</variable>
+<variable name="reserved35" type="byte">0</variable>
+<variable name="reserved36" type="byte">0</variable>
+<variable name="reserved37" type="byte">0</variable>
+<variable name="reserved38" type="byte">0</variable>
+<variable name="reserved39" type="byte">0</variable>
+<variable name="reserved40" type="byte">0</variable>
+</base69>
+</role>
+
